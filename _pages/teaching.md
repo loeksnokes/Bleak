@@ -13,7 +13,7 @@ Summer:
 
 MT5099: Dissertation for M.Sc. Supervision.
 
-EMS supported Summer Research
+EMS supported Summer Research.
 
 Semester 1:
 
@@ -36,14 +36,12 @@ MT5099: Dissertation for M.Sc. Supervision.
 
 Semester 1:
 
-MT5864: Topics in Groups
+MT5864: Topics in Groups.
 
 MT2501: Linear Mathematics tutoring (2 sections).
 
 Semester 2:
 
-MT1003: Pure and Appled Mathematics (Pure Lectures)
+MT1003: Pure and Appled Mathematics (Pure Lectures).
 
 MT1003: Pure and Appled Mathematics tutoring (2 sections).
-
-
