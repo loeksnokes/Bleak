@@ -1,2 +1,1 @@
-# Bleak
-Personal webpage for Collin Bleak.
+Academic website: see https://le27.github.io/Luke-Elliott/

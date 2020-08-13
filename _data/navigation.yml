@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Software"
+    url: /software/
+
+  - title: "CV"
+    url: /files/CV_Luke_Elliott.pdf
