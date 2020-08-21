@@ -1,1 +1,1 @@
-Academic website: see https://loeksnokes.github.io/CollinBleak/
+Academic website: see https://loeksnokes.github.io/Bleak/
