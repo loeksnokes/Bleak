@@ -1,12 +1,10 @@
 ---
 title: "On the dimension and measure of inhomogeneous attractors"
+authors: 
 collection: publications
-permalink: 
-excerpt: ''
 date: 2-5-2018
 venue: 'submitted.'
 paperurl: 'https://arxiv.org/abs/1805.00887'
-citation: ''
 ---
 
 Sufficient conditions for a group of homeomorphisms of the Cantor set to be two-generated
